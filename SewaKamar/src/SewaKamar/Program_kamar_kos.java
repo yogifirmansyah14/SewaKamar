@@ -6,7 +6,7 @@ package SewaKamar;
 
 /**
  *
- * @author Acer
+ * @author Asus
  */
 public class Program_kamar_kos extends javax.swing.JFrame {
     double jenis, lama, tarif, bayar;
