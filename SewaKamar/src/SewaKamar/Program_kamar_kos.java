@@ -1,12 +1,7 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package SewaKamar;
-
 /**
  *
- * @author Asus
+ * @author Lenovo
  */
 public class Program_kamar_kos extends javax.swing.JFrame {
     double jenis, lama, tarif, bayar;
